@@ -1,6 +1,6 @@
 This file contains 2 languages(EN & VI)
 Looking for the Vietnamese version? Just SCROLL DOWN bro!
-#######################################ENGLISH(en)#############################################
+#####################################ENGLISH(en)#############################################
 ESP32 Wi-Fi Penetration Tool Firmware
 
 * Features:
