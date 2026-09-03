@@ -17,7 +17,7 @@ ESP32 Wi-Fi Penetration Tool Firmware
 
 * Designed specifically for ESP32 boards WITHOUT SD card slots and screens (OLED, TFT, etc.).
 * Typically ONLY works on ESP32-WROOM boards and similar modules (e.g., ESP32-D0WD). Other board variants are UNTESTED and may cause soft-bricks (boot loops, partition table corruption, etc.).
-
+```
 ████████╗██╗   ██╗████████╗██████╗ ██████╗ ██╗ █████╗ ██╗
 ╚══██╔══╝██║   ██║╚══██╔══╝██╔═══██╗██╔══██╗██║██╔══██╗██║
    ██║   ██║   ██║   ██║   ██║   ██║██████╔╝██║███████║██║
@@ -25,7 +25,7 @@ ESP32 Wi-Fi Penetration Tool Firmware
    ██║   ╚██████╔╝   ██║   ╚██████╔╝██║  ██║██║██║  ██║███████╗
    ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
 --------------------------- TUTORIAL ---------------------------
-
+```
 > **WARNING:** DO NOT flash on ESP32-S2, ESP32-S3, ESP32-C3, or other custom board variants unless explicitly tested. Flashing incompatible firmware may cause boot loops or partition table corruption in Flash ROM.
 
 ## 1. Installing `esptool`
@@ -135,7 +135,7 @@ Firmware kiểm thử bảo mật wi-fi cho esp32(wifi penetration tool)
 -Firmware dành cho các board esp32 KHÔNG sd, KHÔNG màn hình(oled,TFT,..)
 -Có thể dùng các loại Micro:bit, yolo:bit
 -Thường CHỈ hoạt động trên các board dạng ESP32-WROOM và các loại tương tự(DOWD), các loại board khác CHƯA được thử nghiệm và có khả năng làm HỎNG board của bạn(treo boot, lỗi phân vùng,..)
-
+```
 ████████╗██╗   ██╗████████╗██████╗ ██████╗ ██╗ █████╗ ██╗
 ╚══██╔══╝██║   ██║╚══██╔══╝██╔═══██╗██╔══██╗██║██╔══██╗██║
    ██║   ██║   ██║   ██║   ██║   ██║██████╔╝██║███████║██║
@@ -143,7 +143,7 @@ Firmware kiểm thử bảo mật wi-fi cho esp32(wifi penetration tool)
    ██║   ╚██████╔╝   ██║   ╚██████╔╝██║  ██║██║██║  ██║███████╗
    ╚═╝    ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
 --------------------------HƯỚNG DẪN----------------------------
-
+```
 > **LƯU Ý:** KHÔNG nạp trên các dòng chip ESP32-S2, ESP32-S3, ESP32-C3 hoặc các board tùy biến khác nếu CHƯA kiểm thử. Việc flash sai firmware có thể gây treo bootloop hoặc làm hỏng phân vùng Flash ROM.
 
 ## Cài esptool
@@ -237,7 +237,7 @@ http://192.168.4.1 (Nhập thẳng 192.168.4.1 cho nhanh)
 SUPER THANKS to Original Author / Core Firmware: [risinek](https://github.com/risinek) – Tác giả dự án gốc "esp32-wifi-penetration-tool".
 
 Packager / Maintainer: HoangVu(https://github.com/hoangvu161) – Tối ưu hóa cấu hình headless và đóng gói bộ file cài đặt.
-
+```
 ########################################### 
 ###########################################
 #####################*#####################
